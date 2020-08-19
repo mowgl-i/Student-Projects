@@ -1,0 +1,139 @@
+{
+	"WorkingWithSomyaMikey1597804861235": {
+		"name": "Working With Somya/Mikey",
+		"items": [
+			{
+				"id": "item1597804912467555",
+				"name": "Gephi",
+				"state": "working"
+			},
+			{
+				"id": "item1597804924667152",
+				"name": "Word2Vec",
+				"state": "done"
+			},
+			{
+				"id": "item1597804929490707",
+				"name": "Networkx",
+				"state": "submitted"
+			},
+			{
+				"id": "item1597804971081342",
+				"name": "Reduce Tokens",
+				"state": ""
+			},
+			{
+				"id": "item159780498005859",
+				"name": "Sub-networkx graphs",
+				"state": ""
+			}
+		],
+		"vis": "false",
+		"pin": "false"
+	},
+	"ASCP1597804866051": {
+		"name": "ASCP",
+		"items": [
+			{
+				"id": "item1597805180539521",
+				"name": "Maybe move to asana? ",
+				"state": ""
+			}
+		],
+		"vis": "true",
+		"pin": "false"
+	},
+	"iAC6221597804882403": {
+		"name": "iAC 622",
+		"items": [
+			{
+				"id": "item1597805084418634",
+				"name": "Schedule syllabus",
+				"state": ""
+			},
+			{
+				"id": "item1597805103778985",
+				"name": "REad over module 1",
+				"state": ""
+			},
+			{
+				"id": "item1597805110906194",
+				"name": "Look for other classes?",
+				"state": ""
+			}
+		],
+		"vis": "true",
+		"pin": "false"
+	},
+	"ial6201597804889747": {
+		"name": "ial 620",
+		"items": [],
+		"vis": "false",
+		"pin": "false"
+	},
+	"iAL6211597804897419": {
+		"name": "iAL 621",
+		"items": [],
+		"vis": "false",
+		"pin": "false"
+	},
+	"Capstone1597804902259": {
+		"name": "Capstone",
+		"items": [
+			{
+				"id": "item1597805021585907",
+				"name": "Literature Review",
+				"state": ""
+			},
+			{
+				"id": "item1597805029314554",
+				"name": "Brainstorm",
+				"state": ""
+			},
+			{
+				"id": "item1597805052186947",
+				"name": "companies/job ideas",
+				"state": ""
+			}
+		],
+		"vis": "true",
+		"pin": "false"
+	},
+	"Website1597805187517": {
+		"name": "Website",
+		"items": [
+			{
+				"id": "item159780534552207",
+				"name": "Are We conncting? ",
+				"state": "working"
+			},
+			{
+				"id": "item1597805353978267",
+				"name": "Titanic Machine Learning",
+				"state": "submitted"
+			},
+			{
+				"id": "item1597805364625322",
+				"name": "Lil peep project",
+				"state": ""
+			},
+			{
+				"id": "item1597805368530612",
+				"name": "Text Analysis",
+				"state": ""
+			},
+			{
+				"id": "item1597805406962484",
+				"name": "ANZ Virtual Internship",
+				"state": ""
+			},
+			{
+				"id": "item1597805418714706",
+				"name": "What Influences World happiness?",
+				"state": "done"
+			}
+		],
+		"vis": "true",
+		"pin": "false"
+	}
+}
