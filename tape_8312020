@@ -1,0 +1,386 @@
+{
+	"WorkingWithSomyaMikey1597804861235": {
+		"name": "Working With Somya/Mikey",
+		"items": [
+			{
+				"id": "item1597804912467555",
+				"name": "Gephi",
+				"state": "submitted"
+			},
+			{
+				"id": "item1597804924667152",
+				"name": "Word2Vec",
+				"state": "done"
+			},
+			{
+				"id": "item1597804929490707",
+				"name": "Networkx",
+				"state": "submitted"
+			},
+			{
+				"id": "item1597804971081342",
+				"name": "Reduce Tokens",
+				"state": ""
+			},
+			{
+				"id": "item159780498005859",
+				"name": "Sub-networkx graphs",
+				"state": ""
+			},
+			{
+				"id": "item1598317644039572",
+				"name": "Meeting with Mariani 8am Wednesday",
+				"state": ""
+			},
+			{
+				"id": "item1598460143455543",
+				"name": "Meeting and  work with Mariani -> rlsm r code",
+				"state": ""
+			}
+		],
+		"vis": "false",
+		"pin": "false"
+	},
+	"Capstone1597804902259": {
+		"name": "Capstone",
+		"items": [
+			{
+				"id": "item1597805021585907",
+				"name": "Literature Review",
+				"state": "working"
+			},
+			{
+				"id": "item1597805029314554",
+				"name": "Brainstorm",
+				"state": "working"
+			},
+			{
+				"id": "item1597805052186947",
+				"name": "companies/job ideas",
+				"state": "working"
+			},
+			{
+				"id": "item1598295954021706",
+				"name": "Select two faculty members from UNCG (Approval from Stufkin)",
+				"state": "priority"
+			},
+			{
+				"id": "item159829596904473",
+				"name": "Determine a project with mentor",
+				"state": "priority"
+			},
+			{
+				"id": "item1598296000038509",
+				"name": "Work during the capstone project time",
+				"state": ""
+			},
+			{
+				"id": "item1598296019157614",
+				"name": "Submit  Paper (15 Pages minimum)",
+				"state": ""
+			},
+			{
+				"id": "item1598296058837604",
+				"name": "Public Presentation (20-minutes)",
+				"state": ""
+			}
+		],
+		"vis": "false",
+		"pin": "false"
+	},
+	"Website1597805187517": {
+		"name": "Website",
+		"items": [
+			{
+				"id": "item159780534552207",
+				"name": "Are We conncting? ",
+				"state": "done"
+			},
+			{
+				"id": "item1597805353978267",
+				"name": "Titanic Machine Learning",
+				"state": "done"
+			},
+			{
+				"id": "item1597805364625322",
+				"name": "Lil peep project",
+				"state": "approved"
+			},
+			{
+				"id": "item1597805368530612",
+				"name": "Mimi and Me (Mimi)",
+				"state": "priority"
+			},
+			{
+				"id": "item1597805406962484",
+				"name": "ANZ Virtual Internship",
+				"state": "priority"
+			},
+			{
+				"id": "item1597805418714706",
+				"name": "What Influences World happiness?",
+				"state": "done"
+			}
+		],
+		"vis": "false",
+		"pin": "false"
+	},
+	"ASCP1598574119764": {
+		"name": "ASCP",
+		"items": [
+			{
+				"id": "item1598317416047410",
+				"name": "Follow up with the coaches  about the survey",
+				"state": "done"
+			},
+			{
+				"id": "item1598317450199621",
+				"name": "Send the final list to Scott,  also Kathy Bake and Dr.Buggs",
+				"state": "done"
+			},
+			{
+				"id": "item1598317514511632",
+				"name": "Meeting with Grace 10am Tues",
+				"state": "done"
+			},
+			{
+				"id": "item1598317531633212",
+				"name": "Check in with the Coaches on Wednesday ",
+				"state": "done"
+			},
+			{
+				"id": "item1598317620184813",
+				"name": "Before Call, make sure get all new students off list before making call. ",
+				"state": "approved"
+			},
+			{
+				"id": "item159845310302910",
+				"name": "Add student ID to final list (send to IR)",
+				"state": "working"
+			},
+			{
+				"id": "item1598732205316273",
+				"name": "Send removal list to devon",
+				"state": "done"
+			},
+			{
+				"id": "item1598732230507443",
+				"name": "Add things from notes, etc",
+				"state": "done"
+			},
+			{
+				"id": "item1598831775411725",
+				"name": "Prepare meeting notes",
+				"state": "done"
+			},
+			{
+				"id": "item1598831784595373",
+				"name": "De identify survey results",
+				"state": "working"
+			},
+			{
+				"id": "item1598880545123789",
+				"name": "Schedule students inito starfish",
+				"state": "done"
+			},
+			{
+				"id": "item1598880726626538",
+				"name": "Update Students that have signed up",
+				"state": "working"
+			},
+			{
+				"id": "item1598880738305137",
+				"name": "Check the enrolled excell sheet",
+				"state": ""
+			},
+			{
+				"id": "item1598881191162188",
+				"name": "CHeck coaches outcomes",
+				"state": "working"
+			},
+			{
+				"id": "item1598882120953505",
+				"name": "check email  for withdrawn students",
+				"state": ""
+			},
+			{
+				"id": "item1598884379367383",
+				"name": "Scott: Plan to reach out to students and ask  students  why they have withdrawn or opted out",
+				"state": ""
+			},
+			{
+				"id": "item159888525277432",
+				"name": "Remind coaches to make calendar and so that the schedule a next appt",
+				"state": "submitted"
+			},
+			{
+				"id": "item1598885855054626",
+				"name": "Remind coaches to use excel",
+				"state": "submitted"
+			},
+			{
+				"id": "item159888660142123",
+				"name": "Get Coaches Pronouns",
+				"state": "working"
+			},
+			{
+				"id": "item1598886762949971",
+				"name": "Send email to all participants: Previous STudents feedback",
+				"state": ""
+			},
+			{
+				"id": "item1598892478361749",
+				"name": "Follow up Tyana Williams",
+				"state": "working"
+			},
+			{
+				"id": "item1598895968798887",
+				"name": "Follow up Chelsea",
+				"state": ""
+			},
+			{
+				"id": "item1598895974343488",
+				"name": "Follow up Aaliyah",
+				"state": ""
+			}
+		],
+		"vis": "false",
+		"pin": "false"
+	},
+	"iAC1598574120470": {
+		"name": "iAC 622",
+		"items": [
+			{
+				"id": "item1597805084418634",
+				"name": "Schedule syllabus",
+				"state": "done"
+			},
+			{
+				"id": "item1597805103778985",
+				"name": "REad over module 1",
+				"state": "done"
+			},
+			{
+				"id": "item1598831744099496",
+				"name": "Continue Working on project",
+				"state": "priority"
+			},
+			{
+				"id": "item1598831754075355",
+				"name": "Review what was taught/learned in 604",
+				"state": "priority"
+			}
+		],
+		"vis": "false",
+		"pin": "false"
+	},
+	"ial1598574121058": {
+		"name": "ial 620",
+		"items": [
+			{
+				"id": "item1598296186652958",
+				"name": "take notes on the readings",
+				"state": "done"
+			},
+			{
+				"id": "item1598296226292576",
+				"name": "Finish installing atom",
+				"state": "done"
+			},
+			{
+				"id": "item1598296231341536",
+				"name": "Become Familiar with Atom",
+				"state": "priority"
+			},
+			{
+				"id": "item1598296360252678",
+				"name": "install Rvest",
+				"state": "priority"
+			},
+			{
+				"id": "item1598296366228921",
+				"name": "Familiarize with Rvest",
+				"state": "priority"
+			},
+			{
+				"id": "item1598296511268484",
+				"name": "Assignment - Tools and Teck",
+				"state": "done"
+			},
+			{
+				"id": "item1598831515612562",
+				"name": "Read Emoji Paper from Twitch",
+				"state": "priority"
+			},
+			{
+				"id": "item1598831523635853",
+				"name": "Read Emoji Paper from twitter",
+				"state": "priority"
+			},
+			{
+				"id": "item1598831533547768",
+				"name": "Brain Storm projects",
+				"state": "priority"
+			},
+			{
+				"id": "item1598831549731654",
+				"name": "Read prolouge to Chp 5 : Where Wizards",
+				"state": "priority"
+			}
+		],
+		"vis": "false",
+		"pin": "false"
+	},
+	"iAL1598574121819": {
+		"name": "iAL 621",
+		"items": [
+			{
+				"id": "item1598296312094755",
+				"name": "Aply for twiitter cred",
+				"state": "done"
+			},
+			{
+				"id": "item1598296321413684",
+				"name": "finish install Vm",
+				"state": "done"
+			},
+			{
+				"id": "item1598296328645223",
+				"name": "Install Mass mine on VM",
+				"state": "done"
+			},
+			{
+				"id": "item1598296336597153",
+				"name": "Take Notes on the readings",
+				"state": "done"
+			},
+			{
+				"id": "item1598296521861727",
+				"name": "Assignment - Tools  anad Teck",
+				"state": "done"
+			},
+			{
+				"id": "item1598831622794726",
+				"name": "Readings: Neworks, Crowss and Markets",
+				"state": "priority"
+			},
+			{
+				"id": "item1598831641034905",
+				"name": "Read Social Network Papers?",
+				"state": "priority"
+			},
+			{
+				"id": "item1598831655850508",
+				"name": "BrainSTorm Ideas for project",
+				"state": "priority"
+			},
+			{
+				"id": "item159883172658079",
+				"name": "Read Supervized ML for Text Analysis in R",
+				"state": "priority"
+			}
+		],
+		"vis": "false",
+		"pin": "false"
+	}
+}
